@@ -1,0 +1,7 @@
+yfinance==0.2.36
+torch==2.3.0
+numpy==1.24.4
+tqdm==4.66.2
+scipy==1.11.4
+seaborn==0.12.2
+matplotlib==3.7.3
